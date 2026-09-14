@@ -1,6 +1,6 @@
 ## GDG Study Jam 2.0 — Build Real World AI Applications with Gemini and Imagen
 
-In this hands-on session, participants will use Google's Gemini and Imagen AI models to build three real working AI applications — all running live on Google's cloud through Vertex AI.
+In this hands-on session, participants will use Google's Gemini and Imagen AI models to build three real working AI applications — **all running live on Google's cloud through Vertex AI**.
 
 No advanced AI knowledge required. Just a Google account and a laptop.
 
@@ -20,7 +20,7 @@ How to modify AI prompts to get different results
 
 ### Tools used:
 
-Google Colab — free online Python notebook  
-Vertex AI — Google's AI platform  
-Gemini — Google's text and chat AI model  
-Imagen — Google's image AI model  
+**Google Colab** — free online Python notebook  
+**Vertex AI** — Google's AI platform  
+**Gemini** — Google's text and chat AI model  
+**Imagen** — Google's image AI model  
