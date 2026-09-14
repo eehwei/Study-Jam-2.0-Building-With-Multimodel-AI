@@ -1,4 +1,4 @@
-GDG Study Jam 2.0 — Build Real World AI Applications with Gemini and Imagen
+##GDG Study Jam 2.0 — Build Real World AI Applications with Gemini and Imagen##
 
 In this hands-on session, participants will use Google's Gemini and Imagen AI models to build three real working AI applications — all running live on Google's cloud through Vertex AI.
 
